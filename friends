@@ -1,9 +1,11 @@
-var friends = ["jack"]
 
-console.log(friends)
+var friend = ["jack", "max"]
 
-if (friends === "jack") {
-    console.log("he's my best friend");
+if (friend = "jack") {
+    console.log("he's my best friend")
+} else if (friend === "max") {
+    console.log("my really good friend")
 } else {
-   console.log("he is not my best friend");
+    console.log("my other friends");
 }
+    
