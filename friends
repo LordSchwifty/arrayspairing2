@@ -1,0 +1,9 @@
+var friends = ["jack"]
+
+console.log(friends)
+
+if (friends === "jack") {
+    console.log("he's my best friend");
+} else {
+   console.log("he is not my best friend");
+}
